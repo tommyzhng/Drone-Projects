@@ -1,5 +1,7 @@
 # Person Tracking Drone
 
+* Note: in process of transferring to ROS2 software
+
 ## How to navigate this repository
 
 - TensorFlow Method:
