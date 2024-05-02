@@ -1,6 +1,6 @@
 # Person Tracking Drone
 
-* Note: in process of transferring to ROS2 software
+* Note: in process of transferring to ROS software
 
 ## How to navigate this repository
 
