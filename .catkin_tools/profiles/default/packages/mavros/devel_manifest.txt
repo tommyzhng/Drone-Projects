@@ -1,0 +1,21 @@
+mavros/mavros
+/home/tommy/Documents/person-tracking-drone/devel/.private/mavros/cmake.lock /home/tommy/Documents/person-tracking-drone/devel/./cmake.lock
+/home/tommy/Documents/person-tracking-drone/devel/.private/mavros/lib/libmavros_plugins.so /home/tommy/Documents/person-tracking-drone/devel/lib/libmavros_plugins.so
+/home/tommy/Documents/person-tracking-drone/devel/.private/mavros/lib/libmavros.so /home/tommy/Documents/person-tracking-drone/devel/lib/libmavros.so
+/home/tommy/Documents/person-tracking-drone/devel/.private/mavros/lib/pkgconfig/mavros.pc /home/tommy/Documents/person-tracking-drone/devel/lib/pkgconfig/mavros.pc
+/home/tommy/Documents/person-tracking-drone/devel/.private/mavros/lib/python3/dist-packages/mavros/__init__.py /home/tommy/Documents/person-tracking-drone/devel/lib/python3/dist-packages/mavros/__init__.py
+/home/tommy/Documents/person-tracking-drone/devel/.private/mavros/lib/mavros/mavsys /home/tommy/Documents/person-tracking-drone/devel/lib/mavros/mavsys
+/home/tommy/Documents/person-tracking-drone/devel/.private/mavros/lib/mavros/mavparam /home/tommy/Documents/person-tracking-drone/devel/lib/mavros/mavparam
+/home/tommy/Documents/person-tracking-drone/devel/.private/mavros/lib/mavros/gcs_bridge /home/tommy/Documents/person-tracking-drone/devel/lib/mavros/gcs_bridge
+/home/tommy/Documents/person-tracking-drone/devel/.private/mavros/lib/mavros/mavros_node /home/tommy/Documents/person-tracking-drone/devel/lib/mavros/mavros_node
+/home/tommy/Documents/person-tracking-drone/devel/.private/mavros/lib/mavros/mavcmd /home/tommy/Documents/person-tracking-drone/devel/lib/mavros/mavcmd
+/home/tommy/Documents/person-tracking-drone/devel/.private/mavros/lib/mavros/cmake.lock /home/tommy/Documents/person-tracking-drone/devel/lib/mavros/cmake.lock
+/home/tommy/Documents/person-tracking-drone/devel/.private/mavros/lib/mavros/checkid /home/tommy/Documents/person-tracking-drone/devel/lib/mavros/checkid
+/home/tommy/Documents/person-tracking-drone/devel/.private/mavros/lib/mavros/install_geographiclib_datasets.sh /home/tommy/Documents/person-tracking-drone/devel/lib/mavros/install_geographiclib_datasets.sh
+/home/tommy/Documents/person-tracking-drone/devel/.private/mavros/lib/mavros/mavsafety /home/tommy/Documents/person-tracking-drone/devel/lib/mavros/mavsafety
+/home/tommy/Documents/person-tracking-drone/devel/.private/mavros/lib/mavros/mavftp /home/tommy/Documents/person-tracking-drone/devel/lib/mavros/mavftp
+/home/tommy/Documents/person-tracking-drone/devel/.private/mavros/lib/mavros/mavwp /home/tommy/Documents/person-tracking-drone/devel/lib/mavros/mavwp
+/home/tommy/Documents/person-tracking-drone/devel/.private/mavros/lib/mavros/mavsetp /home/tommy/Documents/person-tracking-drone/devel/lib/mavros/mavsetp
+/home/tommy/Documents/person-tracking-drone/devel/.private/mavros/lib/mavros/event_launcher /home/tommy/Documents/person-tracking-drone/devel/lib/mavros/event_launcher
+/home/tommy/Documents/person-tracking-drone/devel/.private/mavros/share/mavros/cmake/mavrosConfig-version.cmake /home/tommy/Documents/person-tracking-drone/devel/share/mavros/cmake/mavrosConfig-version.cmake
+/home/tommy/Documents/person-tracking-drone/devel/.private/mavros/share/mavros/cmake/mavrosConfig.cmake /home/tommy/Documents/person-tracking-drone/devel/share/mavros/cmake/mavrosConfig.cmake

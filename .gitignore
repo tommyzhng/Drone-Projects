@@ -317,3 +317,39 @@ build.tmp.binaries/
 tasklist.json
 modules/esp_idf
 tensorflowMethod/person_detection/testing.png
+
+
+# ROS
+
+# Ignore build and development directories
+build/
+devel/
+
+# Ignore log and backup files
+*.log
+*.backup
+
+# Ignore auto-generated files
+*.pyc
+*.pyo
+*.swp
+*.swo
+*~
+.CMake*
+
+# Ignore specific ROS generated files
+*.msg
+*.srv
+*.action
+
+# Ignore catkin workspace metadata directory
+/.catkin_workspace
+
+# Ignore IDE-specific files (customize as per your development environment)
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Ignore any local configuration files that don't need to be shared
+config.yaml

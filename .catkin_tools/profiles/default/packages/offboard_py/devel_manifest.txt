@@ -1,0 +1,5 @@
+offboard_py
+/home/tommy/Documents/person-tracking-drone/devel/.private/offboard_py/cmake.lock /home/tommy/Documents/person-tracking-drone/devel/./cmake.lock
+/home/tommy/Documents/person-tracking-drone/devel/.private/offboard_py/lib/pkgconfig/offboard_py.pc /home/tommy/Documents/person-tracking-drone/devel/lib/pkgconfig/offboard_py.pc
+/home/tommy/Documents/person-tracking-drone/devel/.private/offboard_py/share/offboard_py/cmake/offboard_pyConfig-version.cmake /home/tommy/Documents/person-tracking-drone/devel/share/offboard_py/cmake/offboard_pyConfig-version.cmake
+/home/tommy/Documents/person-tracking-drone/devel/.private/offboard_py/share/offboard_py/cmake/offboard_pyConfig.cmake /home/tommy/Documents/person-tracking-drone/devel/share/offboard_py/cmake/offboard_pyConfig.cmake

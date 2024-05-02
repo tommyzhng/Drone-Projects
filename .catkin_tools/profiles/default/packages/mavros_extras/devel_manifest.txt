@@ -1,0 +1,8 @@
+mavros/mavros_extras
+/home/tommy/Documents/person-tracking-drone/devel/.private/mavros_extras/cmake.lock /home/tommy/Documents/person-tracking-drone/devel/./cmake.lock
+/home/tommy/Documents/person-tracking-drone/devel/.private/mavros_extras/lib/libmavros_extras.so /home/tommy/Documents/person-tracking-drone/devel/lib/libmavros_extras.so
+/home/tommy/Documents/person-tracking-drone/devel/.private/mavros_extras/lib/mavros_extras/visualization /home/tommy/Documents/person-tracking-drone/devel/lib/mavros_extras/visualization
+/home/tommy/Documents/person-tracking-drone/devel/.private/mavros_extras/lib/mavros_extras/servo_state_publisher /home/tommy/Documents/person-tracking-drone/devel/lib/mavros_extras/servo_state_publisher
+/home/tommy/Documents/person-tracking-drone/devel/.private/mavros_extras/lib/pkgconfig/mavros_extras.pc /home/tommy/Documents/person-tracking-drone/devel/lib/pkgconfig/mavros_extras.pc
+/home/tommy/Documents/person-tracking-drone/devel/.private/mavros_extras/share/mavros_extras/cmake/mavros_extrasConfig.cmake /home/tommy/Documents/person-tracking-drone/devel/share/mavros_extras/cmake/mavros_extrasConfig.cmake
+/home/tommy/Documents/person-tracking-drone/devel/.private/mavros_extras/share/mavros_extras/cmake/mavros_extrasConfig-version.cmake /home/tommy/Documents/person-tracking-drone/devel/share/mavros_extras/cmake/mavros_extrasConfig-version.cmake
